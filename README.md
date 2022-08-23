@@ -16,3 +16,7 @@
 * Методология BEM
 * Git
 * Figma
+
+**Ссылка на репозиторий**
+
+* https://ekaterinalaktionova.github.io/russian-travel/index.html 
