@@ -1,6 +1,7 @@
 .cover__link {
     text-decoration: none;
     background-image: url(../../../images/cover-trains.jpg);
+    background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
@@ -26,10 +27,5 @@
   
   
   .cover__link:hover::before {
-    background: #2A2C2F;
     opacity: .8;
-  }
-  
-  .cover__link:hover {
-    opacity: 1;
   }
