@@ -4,3 +4,10 @@
     margin: 0;
     list-style: none;
 }
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .header__lang-links {
+        padding-top: 46px;
+        padding-bottom: 13px;
+    }
+}
